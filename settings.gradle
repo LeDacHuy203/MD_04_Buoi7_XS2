@@ -1,0 +1,6 @@
+rootProject.name = 'Buoi7TongHop'
+
+include 'config-server'
+include 'discovery-server'
+include 'api-gateway'
+include 'patient-service'
